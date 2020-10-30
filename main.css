@@ -1,3 +1,26 @@
 h1 {
-  color: red;
+    color: black ;
 }
+h2,h3,body{
+    text-align: center;
+    color: #c4126e;
+}
+*{
+    color: lightblue;
+}
+li{
+    color: purple;
+}
+h1:link
+{
+    color: #FF0000;
+}
+body {
+    
+    background-image: url("https://tomorrowsci.com/wp-content/uploads/2020/04/stsci-h-2010a-d-1280x720-1024x576.png");
+
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed; /* scroll or fixed */
+    background-size: cover;
+  };
